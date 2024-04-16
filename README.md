@@ -1,7 +1,7 @@
-<h2> Olá, meu nome é Geo, tenho 20 anos e moro em Caruaru - PE, seja bem vindo(a) a meu perfil! </h2>
+<h2> Olá 👋 eu sou Geo, tenho 20 anos e sou estudante de TI 🖥️</h2>
 
-<h4>English Version</h4>
-<h4>Hi there! I'm Geo, a 20-year-old from Caruaru, PE. Welcome to my profile!</h4>
+<h5>English Version</h5> 
+<h4>Hi there! I'm Geo, I'm 20 years old and I'm an IT student ️</h4>
 
 ### Estudando no momento(studying):
 
