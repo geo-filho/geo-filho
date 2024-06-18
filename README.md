@@ -1,7 +1,7 @@
 <h2> Olá 👋 eu sou Geo, tenho 20 anos e sou estudante de TI 🖥️</h2>
 
 <h5>English Version</h5> 
-<h4>Hi there! I'm Geo, I'm 20 years old and I'm an IT student ️</h4>
+<h4>Hi there! I'm Geo, I'm 20 years old and I'm IT student ️</h4>
 
 ### Estudando no momento(studying):
 
