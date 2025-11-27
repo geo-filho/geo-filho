@@ -1,12 +1,40 @@
-<h2> Olá 👋 eu sou Geo, tenho 20 anos e sou estudante de TI 🖥️</h2>
+<h2>👋 Olá! Eu sou o Geo — Desenvolvedor Fullstack</h2>
 
-<h5>English Version</h5> 
-<h4>Hi there! I'm Geo, I'm 20 years old and I'm IT student ️</h4>
+Tenho 22 anos, sou apaixonado por tecnologia e atualmente trabalho com desenvolvimento **fullstack**, criando interfaces modernas, sistemas escaláveis e aplicações inteligentes. Atuo principalmente com **React**, **TypeScript** e **Python**.
+---
 
-### Estudando no momento(studying):
+### 🌍 English Version
+<h4>Hello there! I'm Geo — Fullstack Developer</h4>
 
+I'm 22 years old and I work with fullstack development using **React**, **TypeScript**, and **Python**, building modern and scalable applications.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
+
+### 🚀 Tech Stack & Skills
+
+#### Frontend
+- **React.js**
+- **TypeScript**
+- HTML5  
+- CSS3  
+
+#### Backend
+- **Python**  
+- APIs & automações  
+- Integração com serviços de IA  
+
+---
+
+### 📚 Atualmente estudando (Currently studying)
+
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### ✉️ Entre em contato
+Se quiser trocar ideia sobre projetos, tecnologia ou colaborações:
+- **Email:** georgitonpro@hotmail.com
+- **LinkedIn:** https://www.linkedin.com/in/georgiton-jose/
+
